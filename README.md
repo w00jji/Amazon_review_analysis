@@ -19,4 +19,10 @@
 ▪ 각 토큰에 대해 표제어(lemmatization) 처리
 
 3) 빈도 분석
+
+
+### 감성 분석
+- 사용 기법 :
+  - SentimentIntensityAnalyzer
+  - 별점별 긍정,부정 리뷰를 집계 후 시각화
  
